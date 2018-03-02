@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Información sobre mi
+Información sobre mi maravillosa persona
 
 ### More Information
 
