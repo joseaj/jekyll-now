@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: AInformación sobre mi persona
+permalink: /Para saber sobre mi/
 ---
 
 Información sobre mi maravillosa persona
 
-### More Information
+### Si quiere saber más aun
 
 Soy una persona maravillosa y constryo unas páginas web de miedo.
 
-### Contact me
+### Puede enviarme un correo a la dirección de abajo
 
-[email@domain.com](mailto:email@domain.com)
+[correo@jajaja.kk](mailto:juanito@gmail.com)
